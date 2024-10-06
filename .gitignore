@@ -1,0 +1,7 @@
+.idea/
+.mypy_cache/
+__pycache__/
+
+**submission.parquet
+**/kcrecsys1.ipynb
+**/features.npy
