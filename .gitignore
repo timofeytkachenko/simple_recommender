@@ -1,7 +1,10 @@
 .idea/
 .mypy_cache/
 __pycache__/
+.DS_Store
 
-**submission.parquet
-**/kcrecsys1.ipynb
 **/features.npy
+**/db.sqlite3_simple_recsys
+**/submission.parquet
+**/kcrecsys1.ipynb
+**/homework2.py
