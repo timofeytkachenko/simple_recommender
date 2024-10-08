@@ -3,8 +3,10 @@
 __pycache__/
 .DS_Store
 
-**/features.npy
-**/db.sqlite3_simple_recsys
+*.py
+db.*
+*.npy
+
 **/submission.parquet
 **/kcrecsys1.ipynb
-**/homework2.py
+**/test*.ipynb
